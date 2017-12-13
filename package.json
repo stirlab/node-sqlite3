@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "nan": "~2.7.0",
-    "node-pre-gyp": "~0.6.38"
+    "node-pre-gyp": "stirlab/node-pre-gyp#0bdb438537aabb3e7fd561a4115b19ba21d23ab6"
   },
   "bundledDependencies": [
     "node-pre-gyp"
